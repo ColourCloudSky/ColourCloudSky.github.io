@@ -5,7 +5,7 @@ subtitle:   "Sculpting Software Animation"
 #date:       2018-06-04 18:16:00
 author:     "Caiyunsky"
 header-mask: 0.3
-header-img: "img/article-img/20180528/post-bg-banner.jpg"
+header-img: "img/article-img/20180604/post-bg-banner.jpg"
 catalog:    true
 tags:
     - 设计译文
