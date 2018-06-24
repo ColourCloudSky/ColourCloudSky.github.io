@@ -16,13 +16,13 @@ tags:
 >
 > 文章简介： 深度分析sketch库功能
 
-这一部分主要是针对设计团队中库管理者或设计系统维护者，介绍一些库组件命名建议、组件管理、样式管理和库文件管理方面的信息。
+这一部分主要是针对设计团队中库管理者或设计系统维护者，介绍一些库组件命名建议、组件管理、样式管理和库文件管理方面的信息，读者只需要有这方法管理经验，不需要一些编程开发的经验。
 
 ## 组件命名建议
 
 ### 组件命名
 
-库文件会分发给团队内部设计师，甚至是外部设计师，所以库组件的分组结构需要尽量清晰。组件名称使用 “/” 符号分组，建议分组在 1 - 3 之间，“/” 前后加入一个空格，名称使用 Title Case 或 lower case 方式命名，如果你的组件跟某个界面框架相应，也可以根据这个界面框架的模版名称命名。
+库文件会分发给团队内部设计师，甚至是外部设计师，所以库组件的分组结构需要尽量清晰。组件名称使用 “/” 符号分组，建议分组在 1 - 4 之间，“/” 前后加入一个空格，名称使用 Title Case 或 lower case 方式命名，如果你的组件跟某个界面框架相应，也可以根据这个界面框架的模版名称命名。
 
 第一组名称可以根据 Atomic Design 的理论命名。例如 Atoms、Molecules、Organisms、Templates、Pages 或 Components、Patterns 之类。第二组名称使用元素的标准名称，这个可以参考各 Web 前端框架、iOS 和 Android 等平台对控件的命名。例如 Navigation Bar、Status Bar、Toolbar。第三组名称则表示元素的不同属性或者状态，例如尺寸、浅色主题和深色主题，聚焦状态和禁用状态，正确、错误和警告状态等等。例如 Button Default、Button Primary。通常第二、三组可能会有多个子类，因为 Sketch 会以字母顺序排列，所以通常将主类的名前置，而将表示状态等词后置，这样菜单中就会显示更清晰，例如 Input / Text Disable 和 Input / Password Disable。
 
@@ -138,13 +138,27 @@ Overrides 中组件的下拉菜单会显示相同尺寸的组件，如果希望�
 
 ### 创建模版或批量插入组件实例
 
+使用库创建模版除了展示实际使用的示例，也可以测试其他设计师在更新库是否会发生错误。
+
+[Symbol Instance Sheet](https://github.com/sonburn/symbol-instance-sheet) 插件可以批量插入某个库内的所有组件，特别适合图标库。
+
 ### 修改库 ID 冲突
 
-TODO
+库 ID 即 Sketch 文档的 document ID，如果不通过 Sketch 新建文档，而是直接复制 Sketch 文档，他们就会具有相同的文档 ID，库面板中存在相同 ID 的库，并且库中有相同 ID 的组件，会导致更新到错误的内容。
+
+[Automate](https://github.com/Ashung/Automate-Sketch) 插件内 “Library” 组下的 “Fit Library ID Conflict”，在库面板列表包含相同 ID 库的时候，会显示所有 ID 冲突的库，然后根据情况改变库的 ID。
+
+![img](https://ashung.github.io/images/deep-into-sketch-library/automate_fix_library_id_conflic.png)
 
 ### 查找和修复坏链库组件
 
-TODO
+使用了被更改 ID 的库内的组件，或者丢失库的组件，会导致组件无法更新，如果确定这些组件同属于一个库，并且明确这个库已更换为另一库，可以使用 [Symbol Swapper](https://github.com/sonburn/symbol-swapper) 插件内的 Symbol Swap Libraries 功能，该功能可以把组件的库更换成另一个库。
+
+![img](https://raw.githubusercontent.com/sonburn/symbol-swapper/master/Screenshots/Library%20Swapper.png)
+
+如果不是统一替换某个库，而是查找每个组件的链接状态，或者针对某个组件更改链接的库，则可以使用 [Automate](https://github.com/Ashung/Automate-Sketch) 插件内 “Library” 组下的 “Imported Symbols Link Mange” 功能，该功能可以只显示库不存在的组件，并且可以在更改链接的库时，检测库内是否包含该元素，实际上为相同 Symbol ID 的组件，如果内容不同则会提升组件更新。
+
+![img](https://ashung.github.io/images/deep-into-sketch-library/automate_imported_symbols_link_manage.png)
 
 ------
 
@@ -179,33 +193,19 @@ TODO
 
 名称来源 Android Studio 3.1
 
-**Text**
+**Text**: TextView, Plain Text, Password,E-mail, Phone, Postal Address, Multiline Text, Time, Date, Number, AutoCompleteTextView, MultiAutoCompleteTextView, CheckedTextView, TextInputLayout.
 
-TextView, Plain Text, Password,E-mail, Phone, Postal Address, Multiline Text, Time, Date, Number, AutoCompleteTextView, MultiAutoCompleteTextView, CheckedTextView, TextInputLayout.
+**Buttons**: Button, ImageButton, CheckBox, RadioGroup, RadioButton, ToggleButton, Switch, FloatingActionButton.
 
-**Buttons**
+**Widgets**: View, ImageView, WebView, VideoView, CalendarView, ProgressBar, SeekBar, RatingBar, SearchBar, TextureView, SurfaceView, Horizontal / Vertical Divider.
 
-Button, ImageButton, CheckBox, RadioGroup, RadioButton, ToggleButton, Switch, FloatingActionButton.
+**Layouts**: ConstraintLayout, Guideline, LinearLayout, FrameLayout, TableLayout, TableRow, Space.
 
-**Widgets**
+**Containers**: Spinner, RecyclerView, ScrollView, HorizontalScrollView, NestedScrollView, ViewPager, CardView, Tabs, AppBarLayout, NavigationView, BottonNavigationView, Toolbar, TabLayout, TabItem, ViewStub.
 
-View, ImageView, WebView, VideoView, CalendarView, ProgressBar, SeekBar, RatingBar, SearchBar, TextureView, SurfaceView, Horizontal / Vertical Divider.
+**Google**: AdView, MapView
 
-**Layouts**
-
-ConstraintLayout, Guideline, LinearLayout, FrameLayout, TableLayout, TableRow, Space.
-
-**Containers**
-
-Spinner, RecyclerView, ScrollView, HorizontalScrollView, NestedScrollView, ViewPager, CardView, Tabs, AppBarLayout, NavigationView, BottonNavigationView, Toolbar, TabLayout, TabItem, ViewStub.
-
-**Google**
-
-AdView, MapView
-
-**Legacy**
-
-GridLayout, ListView, TabHost, RelativeLayout, GridView.
+**Legacy**: GridLayout, ListView, TabHost, RelativeLayout, GridView.
 
 #### iOS
 
