@@ -1,0 +1,103 @@
+# Site settings
+title: 彩云Sky
+SEOTitle: 彩云的博客 | Caiyun Blog
+header-img: "img/home-bg.jpg"
+email: 2939032758@qq.com
+description: "关于前端与设计、唠叨 | 黄梦龙，Web & Mobile Lover，UX Designer | 这里是 @彩云Sky的个人博客，与你一起发现更大的世界。"
+keyword: "Caiyun, CaiyunSky, caiyunsky, 黄梦龙,  彩云的博客, CaiyunSky Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品,UI"
+url: "http://caiyunsky.me"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+
+
+
+# SNS settings
+RSS: false
+weibo_username:     huangmmenglong 
+zhihu_username:     huangmenglong
+github_username:    ColourCloudSky
+#twitter_username:  caiyun
+dribbble_username:  caiyunsky
+# linkedin_username:  firstname-lastname-idxxxx
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: false                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+
+# Disqus settings
+#disqus_username: _your_disqus_short_name_
+
+# Duoshuo settings
+duoshuo_username:  caiyunblog
+# Share component is depend on Comment so we can NOT use share only.
+duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+
+
+
+# Analytics settings
+# Baidu Analytics 
+# ba_track_id: [your track id]
+
+# Google Analytics
+ga_track_id: 'UA-93534623-1'            # Format: UA-xxxxxx-xx
+ga_domain: colourcloudsky.github.io
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "越努力，越幸运！UX设计师，爱好前端。<br/>目前在奇虎360任用户体验设计师 "
+sidebar-avatar: /img/avatar-sky.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# Friends
+friends: [
+    {
+        title: "Ashung",
+        href: "https://github.com/Ashung"
+    },
+    {
+        title: "创造狮",
+        href: "http://chuangzaoshi.com"
+    },
+    {
+        title: "wenjun",
+        href: "http://wenjunliao.cn"
+    }
+]

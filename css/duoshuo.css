@@ -1,0 +1,149 @@
+#ds-reset .ds-highlight {
+	color:#777 !important;
+}
+#ds-thread #ds-reset #ds-bubble a {
+	color: #777 !important;
+}
+#ds-thread #ds-reset #ds-bubble {
+	color: #777 !important;
+}
+#ds-reset #ds-ctx .ds-ctx-entry .ds-ctx-head a {
+	color: #777 !important;
+}
+.ds-more-services {
+	display: none !important;
+}
+.ds-service-link .ds-renren {
+	display: none !important;
+}
+.ds-powered-by {
+	display: none !important;
+}
+.ds-sort {
+	display: none !important;
+	;
+}
+.ds-post-repost {
+	display: none !important;
+}
+.ds-post-likes {
+	display: none !important;
+}
+.ds-post-report {
+	display: none !important;
+}
+.ds-comments-tabs {
+	display: none !important;
+}
+.ds-comments {
+	border: none !important;
+}
+.ds-comment-context {
+	color: #777 !important;
+}
+.ds-tab {
+	display: none;
+}
+.ds-toolbar-buttons {
+	display: none;
+}
+/*.ds-toolbar {
+	display: none;
+}*/
+	.ds-sync {
+	display: none !important;
+}
+.ds-sync a {
+	display: none !important;
+}
+.ds-sync label {
+	display: none !important;
+}
+.ds-sync input {
+	display: none !important;
+}
+.ds-icon .ds-icon-settings {
+	display: none !important;
+}
+#ds-reset .ds-service-link {
+	background: none;
+}
+#ds-thread #ds-reset .ds-post-self {
+	padding: 10px 0px border: 0;
+}
+#ds-thread #ds-reset li.ds-post {
+	border-top: 1px dashed #ddd;
+}
+#ds-thread #ds-reset li.ds-tab a {
+	background: none !important;
+	border: 0;
+	font-size: 12px;
+	display: none !important;
+}
+
+	.ds-post-options {
+	border: none !important;
+	border-top: 1px solid #ccc !important;
+}
+#ds-reset {
+	background: none !important;
+}
+.ds-textarea-wrapper .ds-rounded-top {
+	border: 1px solid #ddd !important;
+	border-bottom: 1px solid #ddd !important;
+}
+#ds-reset .ds-gradient-bg {
+	background: none !important;
+}
+.ds-textarea-wrapper .ds-rounded-top textarea {
+	border-bottom: 1px solid #ddd !important;
+}
+#ds-thread.ds-narrow #ds-reset .ds-post-options {
+	margin-right: 0;
+}
+.ds-dialog-footer {
+	display: none;
+}
+#ds-thread #ds-reset .ds-replybox .ds-avatar img {
+	width:50px;
+	height:50px;
+	border-radius: 50px
+}
+#ds-thread #ds-reset .ds-replybox {
+	padding:0 0 0 80px;
+}
+#ds-thread #ds-reset .ds-visitor {
+	display: none;
+}
+#ds-reset .ds-avatar img {
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+}
+#ds-thread #ds-reset .ds-comment-body, #ds-thread #ds-reset ul.ds-children .ds-comment-body {
+	padding-left: 70px;
+}
+/*去掉喜欢按钮*/
+.comment #ds-thread #ds-reset a.ds-like-thread-button {
+	display: none;
+}
+/*发布按钮*/
+.comment #ds-thread #ds-reset .ds-post-button {
+	width:100px;
+	height:36px;
+	left:0;
+	margin-top:10px;
+	color:#404040;
+	border:1px solid #ccc;
+	background: #ffffff;
+	transition: background  0.3s;
+}
+.comment #ds-thread #ds-reset .ds-post-button:hover {
+	background:#3A84FF;
+	border: 1px solid #3A84FF;
+	color: #ffffff;
+}
+#ds-thread #ds-reset .ds-post-toolbar {
+	padding-bottom:30px;
+}
+

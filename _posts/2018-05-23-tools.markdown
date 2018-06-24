@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      "设计师电脑必装软件清单"
+subtitle:   "the tools list for designer's computer"
+#date:       2018-05-23 17:39:00
+author:     "Caiyunsky"
+header-mask: 0.3
+header-img: "img/article-img/20180416/post-bg-banner.jpg"
+catalog:    true
+tags:
+    - 设计经验
+    
+---
+
+> 全文共3139词，阅读大约需要9分钟
+>
+> 文章简介： 写这篇文章的起因是即将换工作，可能会领到新电脑。然后，问题来了，打造一台属于设计师的软件齐全的电脑，是一件挺费心的事。不仅要在网上找各种自己常用的软件，还要破解，配置插件，等等想想都头大。（Ps:为什么没有像手机一样通过账号来个一键换机功能呢！？）
+
+### 一、软件清单
+
+1. Photoshop
+2. Illustrator
+3. Affter Effects
+4. CINEMA 4D
+5. Sketch
+6. ImageOptim（图片压缩软件）
+7. Sourcetree（git管理工具）
+8. permute（视频转换格式软件）
+9. Sublime Text
+10. Mpv(万能视频播放器)
+11. 有道云笔记
+12. Typora（Markdown工具）
+13. HBuilder（前端开发工具）
+14. LICEcap（桌面动画gif录屏软件）
+15. Eagle（图片资源采集工具）
+16. 坚果云
+17. Android Studio(主要用来预览安卓svg资源)
+18. Office
+19. Chrome浏览器
+20. Tuxer Disk Manager（移动硬盘文件传输工具）
+21. Kaleidoscope（图片比对工具）
+
+### 二、软件下载链接
+
+1、Photoshop 
+
+http://www.3322.cc/soft/29255.html
+
+https://www.68ps.com/ruanjian/photoshop-cc-2018.htm

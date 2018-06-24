@@ -1,0 +1,118 @@
+---
+layout: page
+title: "About"
+description: "Hey, this is sky."
+header-img: "img/about-bg.jpg"
+---
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a59a3f75e030a4de67134664ba611387";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<!-- Language Selector -->
+<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 中文 Chinese </option>
+    <option value="1"> 英文 English </option>
+</select>
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+
+    <!--copied from markdown -->
+    <blockquote><p>做合理且有思想的设计，越努力，越幸运！</p></blockquote>
+
+    <p>Hey，我是<strong>黄梦龙</strong>，也可以叫我：彩云Sky，程序员 &amp; 设计师</p>
+    <p>目前供职于：奇虎360 用户体验设计师</p>
+    <p>擅长UI界面设计，图标设计，前端页面重构</p>
+
+    <h2>相关个人作品链接：</h2>
+     <ul>
+         <li><a href="https://dribbble.com/caiyunsky">dribbble</a></li>
+         <li><a href="http://huang1990.zcool.com.cn">站酷</a></li>
+         <li><a href="http://i.ui.cn/ucenter/158184.html">UI中国</a></li>
+         <li><a href="http://huangmenglong.lofter.com">Lofter</a></li>
+         <li><a href="http://huaban.com/xnipma73sd">花瓣</a></li>
+     </ul>
+
+     <h2>欢迎联系我</h2>
+       <p>QQ:2939032758</p>
+       <p>微信:huangml19900517</p>
+    <h2> 微信公众号 </h2>
+    <p>我还做了一个微信公众号，每周一晚上9点固定更新一篇原创精选设计译文，欢迎关注 ：）</p>
+        <p>公众号名称：彩云译设计(ID：caiyunyisheji)</p>
+        <p>
+            <img src="/img/erweima.jpg">
+        </p>
+
+</div>
+
+<!-- English Version -->
+<div class="en post-container">
+    <!--copied from markdown -->
+    <blockquote><p>Make reasonable and thoughtful design.The harder you work, the luckier you get!</p></blockquote>
+
+    <p>Hey，my name is<strong>Huangmenglong</strong>，and you can call me：彩云Sky,too.<br/>I'm a designer or a Programmer</p>
+    <p>Currently working in Qihoo 360: User Experience Designer</p>
+    <p>Good at UI interface design, icon design, html/css</p>
+
+    <h2>Personal website:</h2>
+     <ul>
+         <li><a href="https://dribbble.com/caiyunsky">Dribbble</a></li>
+         <li><a href="http://huang1990.zcool.com.cn">Zcool</a></li>
+         <li><a href="http://i.ui.cn/ucenter/158184.html">UI</a></li>
+         <li><a href="http://huangmenglong.lofter.com">Lofter</a></li>
+         <li><a href="http://huaban.com/xnipma73sd">Petal</a></li>
+     </ul>
+     <h2>Contact me</h2>
+       <p>QQ:2939032758</p>
+       <p>Wechat:huangml19900517</p>
+</div>
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+
+    // handle render
+    function _render(){
+        var _hash = window.location.hash;
+        // en
+        if(_hash == "#en"){
+            $select.selectedIndex = 1;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+        // zh by default
+        }else{
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+
+    // handle select change
+    function onLanChange(index){
+        if(index == 0){
+            window.location.hash = "#zh"
+        }else{
+            window.location.hash = "#en"
+        }
+    }
+
+    // init
+    _render();
+</script>
+
+
+
+

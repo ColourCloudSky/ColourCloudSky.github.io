@@ -1,0 +1,325 @@
+---
+layout:     post
+title:      "25个步骤让你成为一个优秀设计师"
+subtitle:   "A 25-Step Program for Becoming a Great Designer"
+#date:       2018-05-14 17:07:00
+author:     "Caiyunsky"
+header-mask: 0.3
+header-img: "img/article-img/20180521/post-bg-banner.jpg"
+catalog:    true
+tags:
+    - 设计译文
+    
+---
+
+> 全文共4101词，阅读大约需要11分钟
+>
+> 文章简介： 让我们一起来看看国外的设计师是如何一步一步成为优秀设计师的！
+
+有很多人并不是美术设计专业出身，只是因为兴趣或者其他什么原因转行成了设计师（比如像我这种，计算机专业毕业，从程序员转变为设计师的）。在转行的初期或多或少会遇到一些困难，迷茫不知道方向（有时候甚至还会担心被一些所谓的科班生鄙视）。作者写这篇文章，就是想为一些没有设计基础，不知道如何学习，不知道怎样才能成为优秀设计师的人准备的。如果你认为自己已经是一位非常优秀的设计师了，就不用接着往下看了（开关小玩笑，其实也是可以看看的)。
+
+让我们一起来看看国外的设计师是如何一步一步成为优秀设计师的！
+
+以下是译文：
+
+#### 1. 观察
+
+放下手绘板，先不着急在电脑上操作。第一步是用你的双眼看看这个设计的世界。
+
+设计无处不在。
+
+你为什么厌恶那个广告牌？为什么那瓶葡萄酒能够在架子上脱颖而出？那个路牌在正确的位置吗？
+
+这个世界充满了设计，第一步是你要能意识到它。
+
+![image2](/img/article-img/20180521/image2.png)
+
+by [maryanne](https://dribbble.com/maryannemade) for [Atlassian](https://dribbble.com/atlassian)
+
+#### 2. 学习一款工具软件
+
+什么软件都行，你只需要选一个。喜欢争论的人总是会说他们使用的工具才是最好的，但这其实并不重要。这就像一位大厨，同样的食材他总能做到最美味，只要你设计能力足够强，你也能设计出任何你想要设计的东西。
+
+打开这个网站https://uxtools.co/tools/design，打印出来挂到墙上，然后扔飞镖。干的漂亮，你选了一个你属于你用的工具（译者注：原作者其实想强调的是工具并不重要，他说的扔飞镖的方式选软件我认为只是一种幽默的表达，其实真正的选择还是以大家常用的软件为主，如果在团队中，可能还需要根据实际情况来选用合适的工具，方便协作）。
+
+![image3](/img/article-img/20180521/image3.png)
+
+by [Rachel He](https://dribbble.com/rachiehehe)
+
+#### 3. 阅读
+
+在网上有很多资源。教程、课程、设计文章甚至在Twitter与设计师聊天都行。
+
+让自己沉浸在设计文化中。你可能只能听懂设计师们说的话的10%，但是你已经可以理解一些设计术语了。你将了解什么是真正重要的，什么是不重要的。
+
+![image4](/img/article-img/20180521/image4.png)
+
+by [Dumitru Ochievschi](https://dribbble.com/ochievschi)
+
+#### 4. 临摹
+
+我敢打赌，今天大约有72%的设计师是通过学习如何在Photoshop中设计火焰字的教程开始的。
+
+通过学习教程或者直接临摹设计可以减轻大脑的各种额外的压力，而不是让你在现阶段就开始做一个原创设计，自己调颜色，构图，做图层样式等等。临摹的目的就是为了学习软件。
+
+这有点像学习炒菜，但是有人已经为你切好了配料，摆好了调味品，连锅都给你热好了。你要做的只是把配料扔进去，不要烧掉就行。
+
+Boom…你就是厨师!
+
+![image5](/img/article-img/20180521/image5.jpg)
+
+by [Emrich Office](https://dribbble.com/emrichoffice)
+
+#### 5. 精通软件
+
+好吧，你不是一个真正的厨师，你是设计师，你也已经开始习惯你选择的设计工具了。
+
+学习快捷键，下载插件，并找到一些相关的配套资源。
+
+世界上最好的设计师们可能只用键盘就能设计出一个不错的UI。
+
+设计工具永远不应该成为你做好设计的障碍。
+
+快捷键学习(https://medium.com/ux-power-tools/shortcuts-hotkeys-and-gestures-5-ways-to-become-a-design-ferrari-in-sketch-or-blazingly-fast-in-389929e89115)
+
+插件(https://sketchrunner.com/)
+
+图标管理器和图标库(https://nucleoapp.com/?ref=552)
+
+#### 6. 再次临摹
+
+与之前的临摹不一样，这次你要做一些微原创。在dribbble上找到一些你喜欢的东西，并尝试重新设计它，模仿原作的风格做一些原创设计。
+
+举个栗子，你在设计健身馆的时候，模仿那些在运动的男女，参照风格动作设计另一些人物。
+
+![image6](/img/article-img/20180521/image6.jpg)
+
+by [Strava](https://dribbble.com/Strava_Design)
+
+#### 7. 关注视觉效果
+
+真的，你现在需要担心的只是做一些看起来不错的东西。也许不是每个人都喜欢，至少你自己要满意。
+
+别担心，今天你为之骄傲的设计在一周后你再回头看就会觉得很糟糕。你的审美会变得越来越好。正如我的设计导师克里斯贝克曾经告诉过我的，直到你的第一个版本看起来像一堆垃圾之前，你其实还并未完成设计。
+
+![image7](/img/article-img/20180521/image7.gif)
+
+by [Bianca Toloi](https://dribbble.com/bitoloi)
+
+#### 8. 完美的东西
+
+在设计时留意一些不起眼的小细节，并且在每一次你觉得作品已经完美时留一个心眼。
+
+注意配色，并且将所有东西都对齐到网格，确保对象是绝对居中的。
+
+开发你的眼睛直至拥有像素眼。
+
+![image8](/img/article-img/20180521/image8.png)
+
+by [Studio–JQ](https://dribbble.com/STUDIOJQ)
+
+#### 9. 重做早期的设计
+
+把自己第一次从追波上临摹的设计再重新做一遍。
+
+这次你会更快、更准确，最终做出来的作品也肯定会比你第一次尝试的看起来要更好。
+
+![image9](/img/article-img/20180521/image9.gif)
+
+by [Alex Suprun](https://dribbble.com/sooprun)
+
+#### 10. 征求意见
+
+你可能还没有向任何人展示你的作品，所以现在是时候了。在刚开始的时候，听取反馈真的很难，那些批评会让你感觉像是在侮辱你自己的孩子。
+
+随着时间的推移，你会发现那些批评会让你的作品变得越来越好。
+
+深呼吸并坦然面对，批评会让你感到不舒服，但是请记住，你的设计不止于此。
+
+![image10](/img/article-img/20180521/image10.png)
+
+by [Ashley Siebels](https://dribbble.com/yosiebels)
+
+#### 11. 为你的设计找到依据
+
+当你第一次收到设计反馈的时候尝试说明一下你的设计思路。你很快就会发现，你可能并不总是知道为什么你会做出那样的设计。
+
+我永远不会忘记我的设计经理第一次问我为什么用复选框而不是下拉框。我的解决方案是正确的，但我不知道为什么。你设计的越多，你的设计逻辑知识就会变得越来越丰富。
+
+**任何设计都有它的道理**。我之前一直在为按钮应该用什么颜色而纠结，直到找到合适的理由才做出了选择。
+
+![image11](/img/article-img/20180521/image11.png)
+
+by [Alexandrov Alexandr](https://dribbble.com/alexandr_a) for [Fireart Studio](https://dribbble.com/Fireart-d)
+
+#### 12. 失败
+
+失败是最好的老师。我们已经听了上千遍，但事实上也确实如此。
+
+你会做出一些错误的设计，不要因为麻烦而不去修改，而是要找出问题所在。你遗漏了一个重要的需求么？你忘记了校对嘛？还是你没有关注到其他更多的细节？
+
+失败的可能情况有很多，但是如果你不找出真正的问题所在，就很难从中学到有价值的东西。
+
+![image12](/img/article-img/20180521/image12.png)
+
+by [Mary Kotyshova](https://dribbble.com/mkotyshova)
+
+#### 13. 模仿某人的风格
+
+到目前为止，你可能已经非常善于使用你的设计工具，并对你的创意产出感到满意了。
+
+现在调整下方向，尝试模仿别人的风格。你会惊讶的发现，又好像回到了起点。然后，你又开始学习新技术。你可以了解[Meg Robichaud](https://medium.com/@megdraws)如何在她的插图中画出那么多人物动作，或者[Pablo Stanley](https://medium.com/@pablostanley)如何在他的作品中高效有效地(https://avataaars.com/)使用符号。
+
+Meg(https://dribbble.com/megdraws)
+
+Avataaars - Avatar Illustrations Sketch Library(https://avataaars.com/)
+
+![image13](/img/article-img/20180521/image13.png)
+
+by [Meg](https://dribbble.com/megdraws)
+
+#### 14. 找捷径
+
+本着清除设计障碍和减少脑力劳动的精神，找到更快、更智能、更有效的工作方法。
+
+快捷方法可以是[预先设计好的图标集](https://nucleoapp.com/?ref=552)和分类照片，也可以是完整的设计系统。
+
+UI kit(https://www.uxpower.tools/)
+
+图标管理器和图标库(https://nucleoapp.com/?ref=552)
+
+![image14](/img/article-img/20180521/image14.png)
+
+#### 15. 复用设计
+
+如果你的某个设计是成功的，找到原因并尝试重复使用它。你不必完全复制设计文件，但如果是已经做过的工作，没有理由重新发明轮子（如果没有一些法律冲突的话……）。
+
+在为各种产品设计了几千个界面之后，你会发现它们基本上都是一样的。将它们进行归类，并知道什么时候使用到它们。
+
+![image15](/img/article-img/20180521/image15.png)
+
+by [Steve Wolf](https://dribbble.com/WOLF_STEVE)
+
+#### 16. 关注用户
+
+到目前为止，你一直在完善你的设计技巧，现在是时候通过关注用户和正确解决他们的问题来提高你的能力了。
+
+在这个过程中，你将会汲取大量的用户体验知识，但是用户是千差万别的，以至于你需要用整个职业生涯去体会。
+
+它将有助于你把注意力集中在解决一个特别的问题上。它可能像设计一个更新密码流程一样小，但是只有你深入进去，你才会真正明白它们是如何运作的。
+
+![image16](/img/article-img/20180521/image16.png)
+
+by [TheGreenHorse](https://dribbble.com/Thegreenhorse)
+
+#### 17. 看别人介绍他们的工作
+
+没有什么比看别人介绍作品更让我感到高兴的了。不好的作品看着就当做是娱乐。。。但是好的作品呢？那就会是不错的灵感来源。
+
+看着某人完全掌控这个房间，把每个人在场的人注意力牢牢抓住......这绝对是令人兴奋的。你几乎可以感觉到一股微风，从包围着会议桌的期待中吹来。
+
+听听他是如何说话，如何暂停，如何移动以及站在哪里。记住他说的故事，说的笑话以及如何协调整个对话，就好像他是威廉姆斯指挥波士顿流行乐队的约翰福克斯一样。
+
+![image17](/img/article-img/20180521/image17.png)
+
+by [Aqualoopa](https://dribbble.com/Aqualoopa)
+
+#### 18. 看着别人做你的工作。
+
+这是一种奇怪的感觉，因为这就好像他们在为你努力工作而获得所有的荣誉。但是记住，你不是你的设计。
+
+记录下他们如何呈现你的设计，并将其与你的展示方式进行比较。它们合适吗?你能从中学到什么?
+
+（译者注：这个步骤我的理解是比稿，可能几个人与你做同样的工作，相互比较，相互学习别人的优点）
+
+![image18](/img/article-img/20180521/image18.gif)
+
+by [Michele Rosenthal](https://dribbble.com/dialmformichele)
+
+#### 19. 将你的工作呈现给你的设计团队
+
+在你准备给你的客户提案之前，请先在团队内部进行演示评审。这是相对稳妥的，他们将能够给你一些很好的反馈。
+
+在挑选你的设计时，他们也会比客户更聪明，所以他们提出的问题将有助于加强你的论述、依据和理念。
+
+如何向你的团队展示作品(https://medium.com/ux-power-tools/how-to-present-design-work-to-your-design-team-a9920fa2af6e)
+
+#### 20. 向客户或利益相关者展示你的设计
+
+大约8个月之前，我的设计经理让我向客户展示我的作品。我很高兴，期待，并且紧张得要命。
+
+但我最终完成了它。不是因为我是ppt专家......我的准备*非常*充分。我在内部进行了大量的练习，我的设计基于基本原理和模式，我的解决方案的每一部分都是经过深思熟虑的。
+
+25个设计提案技巧(https://medium.com/ux-power-tools/25-basic-tips-to-help-you-kick-ass-at-your-next-design-presentation-425a18a082d2)
+
+#### 21. 向不同的利益相关者展示你的设计
+
+向客户展示你的设计，一切都顺其自然。但是客户希望你向新任市场总监或者新的销售主管介绍呢。
+
+这又是一个完全不同的场合，你需要把你的整个作品演示给一个很可能不知道问题的人。
+
+为适合的观众量身打造的设计理念(https://current.innovatemap.com/wisdom/tailoring-your-design-concept-to-the-right-audience/)
+
+如何向利益相关找介绍你的设计(https://medium.com/ux-power-tools/how-to-present-your-design-to-stakeholders-24b776fdd32b)
+
+#### 22. 介绍别人的工作
+
+要成为优秀设计师，我们需要一些技巧来展示他人的设计。
+
+你不仅需要完全理解那些你自己没有做过的设计，而且你还必须为它解释，即使你不同意那个初级设计师把主要按钮放在那里。
+
+其实有一个很简单的技巧，你只需要说：“我会用很多不同的形式来表现，但是它看起来像这样是因为。。。”
+
+现在想象一下，客户听着会感觉如何。
+
+![image19](/img/article-img/20180521/image19.png)
+
+by [Bene](https://dribbble.com/Bene)
+
+#### 23. 听取反馈
+
+在我们的流程中，你将通过步骤23得到很多反馈，好的反馈和糟糕的反馈都有。
+
+弄清楚什么时候需要注意间隔和对齐之类的细节，以及何时对更大的交互流程进行评论。糟糕的反馈会毁掉一个设计，并让设计师陷入徒劳的修改跟踪。
+
+（译者注：这个步骤的意思应该是说，对于反馈的问题要分清楚主次，要能判断反馈是否正确，在恰当的时机做恰当的跟踪处理）
+
+![image20](/img/article-img/20180521/image20.png)
+
+by [Jenny Speirs](https://dribbble.com/jennyspeirs)
+
+#### 24. 关注价值
+
+你的设计看起来很漂亮，他们也能解决用户的问题。
+
+但不要忘记你所服务的行业。
+
+根据不同的情况，较少的设计对于客户来说可能和一个月时间交付的东西一样有价值。
+
+当你已经处在流程的这一步时，你已经开始理解你做的设计是被赋予商业价值的工具，而不只是漂亮的图片。
+
+如何成为一名有价值的设计师(https://medium.com/ux-power-tools/how-to-be-a-valuable-designer-8f9adc3cd1c4)
+
+#### 25. 记录设计
+
+我无法告诉你我从写作中学到了多少关于设计的知识。当你需要经常阐述设计思维过程时，你对这个话题的体会就会更加深刻。
+
+不用每件事都必须写成是华丽的哲学作品。编写一个教程将设计或过程分解成非常简单、易于理解的话，为其他不同级别的设计师提供，这同样有意义。
+
+尝试看看，说不定你就喜欢上写作了！
+
+![image21](/img/article-img/20180521/image21.png)
+
+by [Tea Tom](https://dribbble.com/teatomescu)
+
+
+
+> 原文：https://medium.com/ux-power-tools/a-25-step-program-for-becoming-a-great-designer-ae7e1714527e
+>
+> 作者：[Jon Moore](https://medium.com/@jon.moore?source=post_header_lockup)[](https://uxdesign.cc/@zecarlostorre?source=post_header_lockup)
+>
+> 译者：彩云Sky
+>
+> 本文翻译已获得作者的正式授权
+
+![shouquan](/img/article-img/20180521/shouquan.png)
