@@ -1,0 +1,250 @@
+---
+layout:     post
+title:      "国外大神经验，做好动效你需要了解这些细节"
+subtitle:   "Sculpting Software Animation"
+#date:       2018-06-04 18:16:00
+author:     "Caiyunsky"
+header-mask: 0.3
+header-img: "img/article-img/20180528/post-bg-banner.jpg"
+catalog:    true
+tags:
+    - 设计译文
+    
+---
+
+> 全文共2891词，阅读大约需要8分钟
+>
+
+![image1](/img/article-img/20180604/image1.gif)
+
+动效的设计，最关键的就是对时间的把控，时间是至关重要的。如果不考虑动效时间，你就不肯定算不上是合格的动效设计师。
+
+高级动画师能熟练掌握动画的节奏，时间，速度，构图，结构和动力学。
+
+现如今到了2018年，动画终于融入了界面设计中，但很多都没有达到目标。它们在动画上还显得比较初级，而没有考虑给用户合理的动画感受。
+
+经典动画中蕴含着丰富的知识，我们不需要重复造轮子。
+
+![image2](/img/article-img/20180604/image2.gif)
+
+动画能抓住用户的注意力
+
+当你坐在电影院看电影之前，你可能会注意到出口标志，屏幕的边缘，你前排人的脑袋。如果这部电影非常吸引人，所有杂念都会消失，你会感觉你自己已经沉静在电影中。换句话说，直到你身边有一些白痴去看他们的Instagram通知时，你才又回到了现实。
+
+我们通常会注意到在运动的事物，当它们静止时又会逐渐被忽略。
+
+运动能吸引我们的注意力，所以我们应该要考虑如何利用它。
+
+### 视觉疲劳
+
+仅学习“迪士尼的12个动画原理”是不够的。
+
+![image3](/img/article-img/20180604/image3.png)
+
+一个经典的追波回复
+
+初级的动效设计师倾向于把所有东西都做得过于活跃。追求炫技，他们不想浪费任何一个关键帧，忘记了它会让眼睛疲劳。有一个不恰当的例子，观众坐着，设计师设计了一堆诱饵，试图向他们炫耀辛苦做出来的作品。这一点在像dribbble这样的社区得到了印证，用户在看到动画时会兴奋地点赞转发动画，因为他们以前从未见过如此炫酷的动画。而事实上，最好的动画应该是无形的。
+
+这是我们在界面中看到一个经典错误：弹簧动画的滥用。
+
+![image4](/img/article-img/20180604/image4.gif)
+
+晃眼的界面元素
+
+我们的注意力没意义的被震荡的界面元素所吸引。 我们的视线被集中在它上面，因为它需要很长的时间才能看清楚。 界面看起来有悬念，我们渴望终结它的跳动。
+
+![image5](/img/article-img/20180604/image5.gif)
+
+改进，控制界面弹跳时间
+
+如果减少夸张的振幅，元素上的内容会更容易关注到。这比之前的会简洁很多，但是其实还是会有一个比较夸张的缓冲。但其实还有改进空间，自己的感受才是最重要的。
+
+#### 让我们聊聊形变
+
+> 点击按钮变成了汉堡菜单，然后再次点击变成了关闭，在两种形态之间往复。
+
+![image6](/img/article-img/20180604/image6.gif)
+
+另一个没有意义的案例，弹跳过渡的汉堡菜单。即使没有弹簧效果，它也很能吸引人的注意力。我们不需要太夸张的形式来感知一个状态的变化，也不需要把所有的东西都成动的。
+
+![image7](/img/article-img/20180604/image7.gif)
+
+晃眼的汉堡图标
+
+让我们结合内容来看看这个动效。留心你自己眼睛看到的地方，你是否注意到，在内容较大变动之后，这个图标在很长时间内摆动？最重要的内容应该是按钮触发的界面变化，而不是让你去看那个过度弹跳的汉堡菜单。
+
+![image8](/img/article-img/20180604/image8.gif)
+
+一个更直接的方法是完全不改变图标。相反，我们可以专注于使用微妙的动画来进行交互。这不是为了吸引眼球，而是一个指导性原则。这个新按钮的特点是先向下凹陷，然后快速的弹回，显得自然轻松，强调按下一个按钮的感觉。
+
+![image9](/img/article-img/20180604/image9.gif)
+
+![image10](/img/article-img/20180604/image10.gif)
+
+谨防视觉疲劳
+
+想想如何去引导用户视线，这对做好动效来说很有帮助。想象一下你的眼球在眼眶里旋转，快速移动，加速，减速。当你做动画时，其实你是在引导视线。你在哪里需要着重强调?视线应该放在哪里?更多的追踪需要更多的身体和精神投入。是否值得用视觉疲劳来换取使用一些夸张的动画?需要去平衡动效的细微差别，考虑最佳的适应性。
+
+### 理性vs感性
+
+遵从自己的内心感受。不要被那些僵死的规定给套住，并不是非黑即白，比如像IBM和谷歌的一些公式理论。时刻保持怀疑的态度。
+
+不要过于相信数据，首先应该相信自己的眼睛和感觉。如今的一些规则是可以被打破的。好的动画能给人带来美好体验，而你则是可以创造这些的人。
+
+考虑你编排的每个元素的意义和目的。严格按照理性数据做动画也不总是好的，有时候，感觉可能才是正确的。
+
+![image11](/img/article-img/20180604/image11.gif)
+
+把这些例子放在一起进行比较。它们在做同样的事情，但是时间节点不同。
+
+左边的例子太机械化了。弹出界面不一定要从0%的比例开始，缩放的比例跨度也不一定非要100%，这显得不够简洁。
+
+通过略微调整开始时间来设计一个更清爽的版本，我们需要做的就是用眼睛注意观察。在右边，我们从90%开始，很快接近100%，我们感受到了变化，而不必坐下来观察0-100之间的每一个值。没有人有时间干这事！
+
+![image12](/img/article-img/20180604/image12.png)
+
+![image13](/img/article-img/20180604/image13.png)
+
+（译者注：作者提到的那本书的一张插图，有兴趣的可以去翻翻，书的地址是：https://www.amazon.com/Animators-Survival-Kit-Richard-Williams/dp/0571202284/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=psql-20&linkId=709f0b290533ce78ebbc9051c627d5af）
+
+
+
+来尝试一个更加抽象的例子，在屏幕上移动一个图形：
+
+![image14](/img/article-img/20180604/image14.png)
+
+![image15](/img/article-img/20180604/image15.gif)
+
+一个线性的，机械的移动，对吗？
+
+![image16](/img/article-img/20180604/image16.png)
+
+![image17](/img/article-img/20180604/image17.gif)
+
+现在，让我们一起来看看调整后的结果，快速地滑过大部分距离，同时使用快速缓冲来实现停止。
+
+![image18](/img/article-img/20180604/image18.png)
+
+![image19](/img/article-img/20180604/image19.gif)
+
+动态模糊
+
+![image20](/img/article-img/20180604/image20.png)
+
+调整曲线
+
+如何更进一步优化呢？让我们再来细心雕琢一下曲线。缓进缓出，如果动作太快，还可以添加一个动态模糊来引导视觉。
+
+### 用图表来看时间
+
+经验丰富的动画师能通过细微差别来感知时间，眼睛需要训练来观察和感知时间。虽然这种能力需要几年的时间来培养，但仍有可能通过计算机来剖析时间。说起来还得谢谢电脑！
+
+![image22](/img/article-img/20180604/image22.png)
+
+<http://www.navone.org/HTML/Tutorial_Splines2_2.htm>
+
+补间动画通常使用图形编辑器的概念，让你可以更加精确的调整时间。虽然界面上老鼠窝一样的曲线看着就让人害怕，但其实它的核心很简单。图表上只是描述随时间变化的值，再把这些值附加到属性上（例如缩放、位置、旋转、颜色、光泽、粗糙度等）
+
+### Motionscope
+
+当我们处理这些图形的形状时，我们实际上是在编排时间。使用[MotionScope](https://github.com/yothinko/motionscope)(我们在Thinko的内部工具)，让我们看看时间和间隔是如何与图形相关联的。它就像工程师的控制台，或者摄影师的直方图。
+
+![image23](/img/article-img/20180604/image23.gif)
+
+步幅 /阻塞 <https://framer.cloud/aAdpl/>
+
+![image24](/img/article-img/20180604/image24.gif)
+
+缓入 <https://framer.cloud/vKGrR>
+
+![image25](/img/article-img/20180604/image25.gif)
+
+缓入和缓出 <https://framer.cloud/tfOhN>
+
+![image26](/img/article-img/20180604/image26.gif)
+
+弹簧模拟 <https://framer.cloud/deNRR>
+
+![image27](/img/article-img/20180604/image27.gif)
+
+圆周运动可以用正弦和余弦函数来描述 <https://framer.cloud/cTAKX>
+
+![image28](/img/article-img/20180604/image28.gif)
+
+自定义的[贝塞尔曲线](http://cubic-bezier.com/#.25,.01,.27,.98) <https://framer.cloud/lWHuB>
+
+![image29](/img/article-img/20180604/image29.gif)
+
+多重复杂运动 <https://framer.cloud/jBPYO>
+
+（译者注：以上这些可能需要懂一些代码，因为涉及到动画的开发实现了，感兴趣的设计师也可以了解下。）
+
+如果我们以层的形式来管理动画，就可以将复杂的运动缩减为更方便管理的维度。
+
+通过控制变量的好处就是方便观察原始动画，我们可以通过一次只调整一个动画层来调试动画。
+
+### 资源分享
+
+有一座大山的知识需要你去学习，但幸运的是，其他动画师已经写了很多很棒的文章，以下是一些有价值的资料可供参考：
+
+动态保留：<http://www.keithlango.com/tutorials/march05/movingHold.htm>
+
+迪士尼的7个动画原则（http://johnkstuff.blogspot.com/2009/02/anticipations.html）
+
+12个动画的基本原则（http://blog.animationmentor.com/arc-the-12-basic-principles-of-animation）
+
+皮克斯的Victor Navone的动画函数曲线（http://www.navone.org/HTML/Tutorial_Splines2.htm）
+
+#### 我自己写的一些文章
+
+过渡界面（https://medium.com/@pasql/transitional-interfaces-926eb80d64e3）
+
+空间界面（https://medium.com/elepath-exports/spatial-interfaces-886bccc5d1e9）
+
+我的朋友 [Marcus Eckert](https://twitter.com/marcus_eckert?lang=en)有一个非常棒的访谈，主要讲差值动画的
+
+<http://push-conference.com/news/getting-from-a-to-b-the-art-of-interpolation-by-marcus-eckert/>
+
+一些对提升感知能力有帮助的想法：<https://amzn.to/2rno2bV>
+
+动画师的生存工具包，这是动画师的圣经，必看！
+
+<https://amzn.to/2w8NrM0>
+
+如何像专业人士一样学习:<https://chicounity3d.wordpress.com/2014/05/23/how-to-lerp-like-a-pro/>
+
+### 实践
+
+理论是一回事，如何实现这些想法又是另一回事了。在不需要懂开发的情况下，使用LightBox（https://uselightbox.com/）这个软件会很方便。
+
+
+
+------
+
+
+
+### 译者总结：
+
+全文看下来，我觉得有几点是需要去关注到：
+
+1、不要为了动画而动画，动画的目的是引导用户视线
+
+2、好的动画是无形的
+
+3、不要设计过度弹跳的动画，要简洁而不是繁琐
+
+4、不要死板的套用数据做动画，要遵从自己的内心感受，感性与理性相结合
+
+5、缓动动画会比线性动画更加自然，速度快的时候需要动态模糊
+
+
+
+> 原文：https://medium.com/@pasql/sculpting-software-animation-7d818ddcd40a
+>
+> 作者：[Pasquale D’Silva](https://medium.com/@pasql?source=post_header_lockup)
+>
+> 译者：彩云Sky
+>
+> 本文翻译已获得作者的正式授权
+
+![shouquan](/img/article-img/20180604/shouquan.png)
