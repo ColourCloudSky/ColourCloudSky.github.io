@@ -69,7 +69,7 @@ ga_domain: colourcloudsky.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "越努力，越幸运！UX设计师，爱好前端。<br/>目前在奇虎360任用户体验设计师 "
+sidebar-about-description: "越努力，越幸运！UX设计师，爱好前端。<br/>目前在腾讯任UI视觉设计师 "
 sidebar-avatar: /img/avatar-sky.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
