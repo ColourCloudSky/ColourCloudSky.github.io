@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "如何做到为所有人设计？"
-subtitle:   "10 Small Design Mistakes We Still Make"
+subtitle:   "Designing for accessibility is not that hard"
 #date:       2018-07-09 21:45:00
 author:     "Caiyunsky"
 header-mask: 0.3
