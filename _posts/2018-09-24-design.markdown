@@ -1,0 +1,231 @@
+---
+layout:     post
+title:      "大神告诉你，她是如何完成100天插画设计挑战的？"
+subtitle:   "100 Days of Vector Illustration"
+#date:       2018-09-24 17:34:00
+author:     "Caiyunsky"
+header-mask: 0.3
+header-img: "img/article-img/20180924/post-bg-banner.jpg"
+catalog:    true
+tags:
+    - 设计译文
+    
+---
+
+> 全文共3653词，阅读大约需要15分钟
+>
+
+在之前的《Uber高级产品设计师告诉你，她是如何完成100天动画设计挑战的》那篇文章发出去后，反响很热烈，不少人在公众号后台留言，让我把大神的其他几篇文章也翻译出来，希望能学习到更多。与作者联系后，她很高兴她的文章对大家有所帮助，并同意我继续翻译。
+
+文章开始之前，可能还有些人没有看过第一篇文章，对作者还不是很了解，在这里就再介绍一次，有兴趣的朋友也可以关注一下。
+
+作者简介：许田恬，清华大学毕业，密歇根大学人机交互硕士，现任Uber高级产品设计师，曾任职于亚马逊，负责设计Kindle阅读体验项目。工作之余做过的100天项目有《100天涂鸦》、《100天字体练习》、《100天水彩画》、《100天矢量插图》和《100天动效设计》。
+
+Medium : https://uxdesign.cc/@tiantianxu
+
+Instagram ：https://www.instagram.com/tiantianxu/
+
+Dribbble ：https://dribbble.com/tiantianxu
+
+
+
+
+
+![image1](/img/article-img/20180924/image1.jpeg)
+
+100天内所画的全部矢量插图
+
+在2017年一月，我从旧金山搬到西雅图。寒冷冬夜，雨未停歇。我坐在电脑前面，听着歌，打开Sketch开始画第一张矢量插图。4个月以后，我完成了我的第4个100天项目——《100天矢量插图》。
+
+我是在2015年开始挑战第一个100天项目的。这项练习带给我的启发是：创意是需要通过训练的，你越花时间去练习它，你就会有越多的创意。自那以后，我期望通过很多不同的工具来提升自己的创意能力。
+
+我原来还做过的项目挑战有《100天涂鸦》《100天的字体》《100天水彩》。
+
+
+
+![image2](/img/article-img/20180924/image2.png)
+
+![image3](/img/article-img/20180924/image3.jpeg)
+
+![image4](/img/article-img/20180924/image4.jpeg)
+
+过去的100天练习项目
+
+最近的挑战项目《100天矢量插图》，我专注于用软件工具来创作。每天，我都会在sketch中创作一张插图并发Instagram 上。
+
+接一下，我会详细的介绍项目过程中的思考以及关于这个项目背后的反思。
+
+### 为什么是练习矢量插图？
+
+作为一个视觉设计师，我很喜欢矢量插图中丰富的颜色和形状。经常刷Behance和Dribbble这样的设计网站很能激励我，让我也有想创作的冲动。所以我也想通过学习如何创作矢量插图来设计一些漂亮的作品。
+
+另外，如果没有接受过专业的美术学习，100天的练习项目将是一个很好的机会来锻炼自己的插画技能。
+
+我选择用Sketch来开始这项挑战，是因为它既简单又便宜。它的基本矢量编辑功能能帮助我专注于完成每日练习而不至于太钻细节。
+
+### 开始阶段
+
+我的准备阶段归纳起来大致分为3步：
+
+#### 1、设置sketch
+
+我会为每一张图创建一个600px * 600px的画板。在我的sketch文件中，会看到是在一页中有100个10 * 10矩阵排列的画板——这样做的目的在于能帮助我看到所有的练习，以便于比较和参考。
+
+![image5](/img/article-img/20180924/image5.png)
+
+我的sketch源文件截图
+
+#### 2、脑暴想法
+
+在100天的项目挑战中，我会去选择我喜欢的主题来创作。一旦我想到一个主题（比如食物系列），我就花时间来进行头脑风暴，去想象在这个主题中创作不同的东西。
+
+我会用一个笔记本来记录这些想法。有时，我会把所有的东西都记录在笔记本上，并把它们进行分组。这样，我就可以提前计划以避免最后一刻没有想法的“创意恐慌”。（译者注：每日练习，根据自己的经验来说最容易导致坚持不下去的就是这一点。如果缺少规划，每天花的最多时间不是设计执行，而是大量的去想到底要画什么。）
+
+![image6](/img/article-img/20180924/image6.png)
+
+头脑风暴想法
+
+#### 3、定义色板
+
+在做这个项目中我学到一点就是提前准备一套调色板。
+
+举个栗子，在食物系列中，我定义了5个背景颜色去不断重复利用。它不仅确保了一致性，还能通过颜色帮助我进一步缩小当天的主题范围——因为有一些图是适合用这个背景颜色而有一些则不合适。（译者注：所以我猜作者应该是会根据背景颜色来选择当天要画的食物内容）。
+
+![image7](/img/article-img/20180924/image7.png)定义色板
+
+### 第1-25天
+
+#### 跟着教程来做
+
+跟着教程来做是学习新技能的最好方式。我在Tuts+上关注了2位我最喜欢的教程专题。他们都是在Illustrator中创作的，但是矢量创作过程跟Sketch一样。
+
+我根据Nataliya Dolotko的教程《如何快速创作多肉植物插图系列》，创作了多肉系列插图。
+
+![image8](/img/article-img/20180924/image8.png)
+
+《100天矢量插图》——多肉系列
+
+之后我又根据 Andrei Stefan的教程《如何在[Adobe Illustrator](https://design.tutsplus.com/tutorials/how-to-create-a-solar-system-planets-icon-pack-in-adobe-illustrator--cms-26441) 中创建一套星系图标》创作了星球系列。这次，我在原教程的基础上，增加了一些不一样的视觉风格。
+
+![image9](/img/article-img/20180924/image9.png)
+
+《100天矢量插图》——星球系列
+
+### 第26–42天
+
+#### 狗与字母表的碰撞
+
+在二月的时候，我在 Instagram上参加了由[HandletteredABCs](https://www.instagram.com/handletteredabcs/?hl=en) 组织的字母挑战。在挑战期间，基于26个字母，我画了26条不同样子的狗。我在研究各种不同狗的过程中找到了很多快乐，同时，我的矢量插图技能也得到了一个很好的锻炼。
+
+![image10](/img/article-img/20180924/image10.png)
+
+《100天矢量插图》——字母狗系列
+
+### 第43-90天
+
+#### 食物系列
+
+我花了48天时间来画这些食物图标。一些食物的想法来自于我的童年——一些很流行的中国小吃，比如粽子，元宵，烧麦等等。其他的一些食物灵感来自于我在美国的生活经历——街边小吃，比如热狗、墨西哥玉米卷、椒盐脆饼等等。
+
+为了搜集更多的创意，我会在Instagram上去问别人最喜欢吃的食物。然后回复很令人兴奋——一些食物像纳豆和果酱饼是我以前从来没吃过的。我喜欢这样的挑战，一个个人挑战项目帮助我走出自己的舒适区，敢于去尝试新事物。
+
+![image11](/img/article-img/20180924/image11.png)
+
+《100天矢量插图》 — 食物系列
+
+### 第91-100天
+
+#### 鸡尾酒系列
+
+在最后的10天里，我创作了10个不同的鸡尾酒作品。这一次，我在所有的作品中都采用一致的视觉风格。我还尝试了颜色混合模式——这是我之前从来没有使用过的方法。
+
+![image12](/img/article-img/20180924/image12.png)
+
+《100天矢量插图》——鸡尾酒系列
+
+### 反思
+
+#### 1、保持一直能被灵感启发的状态
+
+我始终坚信创意是一种技能，是可以通过练习来提升的，谁都不是天生就有很多创意——练习的越多，你就会有更多的创意。但是这回，我还学习到了一些新的东西：
+
+> 只有不断去收集灵感才能保持创造性。
+
+当我在画字母狗时，我只是简单的每天去重复画相同的视觉风格。我没有去寻找更多的灵感，很快我就厌倦了，变得不再具有创造力。
+
+从那之后，我决定一直保持创造力。每天，我都会花费10-30分钟在Dribbble，Behance，Instagram去发现优秀的设计并收集到我的Pinterest画板中。我不断增长的Pinterest收藏一直是我的灵感源泉，这也是我100天项目中一直能够保持创造力的原因。
+
+#### 2. 停止比较
+
+我仍然记得当我偶然发现《36天字体》挑战中精彩作品时的感觉，那些由世界各地顶尖艺术家和插画家创作的作品都非常的优秀。
+
+曾经有一段时间，我一度怀疑自己作品是否真的有意义。
+
+当我深入研究这些艺术家的背景时，我意识到他们是长期从事创作领域的专业插画家或设计师。把我的工作和他们相比较毫无意义，因为我们有不同的背景、经验和目标。我们在完全不同的创作道路上。
+
+唯一需要比较的是自己现在所做的作品与自己以前做的作品。每当我开始怀疑自己的时候，我就会返回去看看自己在第一天所画的作品，在技能和过程中的巨大进步一直激励着我继续我的创作之旅。
+
+> "对于你走完的路感到骄傲，对于你可以走多远感到自信，但不要忘记享受旅程。"
+
+> — Michael Josephson
+
+#### 3、拥抱理想与产出的差距
+
+虽然我在插图方面随着时间推移可以看到进步，但是我对自己的工作还是经常会感到失望：糟糕的配色，字体，缺乏一致性的视觉风格。。。很多时候我知道工作没有做好，但是我却不知道如何去提高它。
+
+Ira Glass 描述了这种理想与产出之间的差距：
+
+> “没有人会告诉那些初学者，我希望有人能告诉我。我们所有从事创造性工作的人，都是因为我们有很好的品位才走上这条道路。但是这中间却有鸿沟。在最初的几年里，你所做的东西并不是那么好。它试图表现的很好，也很有潜力，但事实并非如此。但是进入这套游戏规则之中，你的品位仍然是杀手锏，你的品位就是你的工作让你失望的原因。”
+
+我决定接受理想与产出之间的差距。因为只要有差距的存在，就有学习和提高的空间。只有通过大量的练习，我才能不断缩小这个差距，才能使我的工作和心里所想的一样好。
+
+#### 4、回归初心
+
+我在2015年开始了我的第一个100天项目。从那以后，我会收到一些“赞”，并在社交媒体上获得了新的关注。然而，随着越来越多的人关注我的工作，我却开始感到失落。我被“喜欢”的数量弄的心烦意乱，想要创造一些人们喜欢的东西来获得更多的认可。
+
+这就是为什么我与Jessica Walsh的话产生共鸣：
+
+> “创作是为了滋养你的灵魂，不是滋养你的自负。”
+
+我提醒自己，这个项目的目标是即使没有人关心，也要做出漂亮的东西来。我想磨练自己的矢量插画技巧，我还想通过创造与我产生共鸣的事物来表达自己。这个项目是为了创造，而不是为了出名。
+
+> “只要你觉得这件事值得去做，那就努力去的创造。”将它视为人类最基本的需求，挑战，惊喜，改变自己。
+
+> — [**@**fell_martins](https://twitter.com/fell_martins)
+
+### 最后
+
+回首过去，我觉得很有成就感，我在过去的100天内创造了100张矢量插图。我的矢量插图技能得到了提升。创造一些与我灵魂共鸣的东西，满足感爆棚。
+
+从我在2015年做的第一个100天项目开始，我养成了创意的习惯。我很感激能成为百日项目社区的一员，同时也期待着赶快开始下一个百日项目。
+
+
+
+### 资源
+
+这里是一些资源链接：
+
+1. [设计与插图教程](https://design.tutsplus.com/) on Envato Tuts+
+2. [Sketch速成](https://www.youtube.com/playlist?list=PLWlUJU11tp4fEXI8deWhBQAHDv9R23WHB) by Sketch Together
+3. [Sketch技巧与教程](https://www.youtube.com/playlist?list=PLeWHfyz6lrQWwWCRLQ8f6NSKJN0upEYe7) by InVision
+4. [关于你经常看到的空间插画](https://medium.com/@geometrieva/tutorial-for-that-space-illustration-you-keep-seeing-around-9c97214b4d92) by Nina Geometrieva
+5. [Sketch教程——色彩选择](https://medium.com/google-design/sketch-tutorial_01-b76271a095e3) by Sebastien Gabriel
+6. [100天练习](https://medium.com/@twahlin/100-days-of-making-3889635e8d8b) by Tom Wahlin
+7. [颜色在UI设计中的运用](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e) by Erik D. Kennedy
+8. [Sketch的101重组合模式](https://medium.com/sketch-app-sources/sketch-blending-modes-101-f8a92c4c4c7d) by Mauricio Uehara
+
+还有，可以关注下面的Instagram设计账号吸收设计灵感。
+
+团队: [supplyanddesign](https://www.instagram.com/supplyanddesign/), [thedesigntalks](https://www.instagram.com/thedesigntalks/), [genecreative](https://www.instagram.com/genecreative/), [illustate](https://www.instagram.com/illustate/),
+
+个人: [maite_franchi](https://www.instagram.com/maite_franchi/), [lukedoylestudio](https://www.instagram.com/lukedoylestudio/), [juliendreamdesign](https://www.instagram.com/juliendreamdesign/?hl=en), [liquid_ink](https://www.instagram.com/liquid_ink/), [rosemarie.cc](https://www.instagram.com/rosemarie.cc/), [typoe11](https://www.instagram.com/typoe11/?hl=en), [bymeilne](https://www.instagram.com/bymeilne/), [marioayala.design](
+
+
+
+> 原文：https://medium.com/the-100-day-project/100-days-of-vector-illustration-6f2f10209b0b
+>
+> 作者：[Tiantian Xu](https://medium.com/@tiantianxu?source=post_header_lockup)
+>
+> 译者：彩云Sky
+
+![shouquan](/img/article-img/20180924/shouquan.png)

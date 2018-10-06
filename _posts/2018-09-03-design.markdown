@@ -1,0 +1,319 @@
+---
+layout:     post
+title:      "Uber高级产品设计师告诉你，她是如何完成100天动画设计挑战的"
+subtitle:   "100 days of motion design"
+#date:       2018-09-03 17:06:00
+author:     "Caiyunsky"
+header-mask: 0.3
+header-img: "img/article-img/20180903/post-bg-banner.jpg"
+catalog:    true
+tags:
+    - 设计译文
+    
+---
+
+> 全文共3660词，阅读大约需要15分钟
+>
+
+有两周没有做译文了，Sketch冷知识内容还在准备中，先放一篇译文干货来吧。这次非常巧，在medium上发现了这篇非常棒的干货文章，作者居然就是咱们国人。简单采访了下作者，下面是作者的一些介绍(膜拜中)。
+
+作者简介：许田恬，清华大学毕业，密歇根大学人机交互硕士，现任Uber高级产品设计师，曾任职于亚马逊，负责设计Kindle阅读体验项目。工作之余做过的100天项目有《100天涂鸦》、《100天字体练习》、《100天水彩画》、《100天矢量插图》和《100天动效设计》。
+
+Medium : https://uxdesign.cc/@tiantianxu
+
+Instagram ：https://www.instagram.com/tiantianxu/
+
+Dribbble ：https://dribbble.com/tiantianxu
+
+对于连续100天每天创作一幅作品这个活动，我印象中应该是从Dribbble上这个人开始发起的https://dribbble.com/NpaulFlavius，当年我也参与了这个挑战活动，在朋友圈坚持了100多天，每天坚持发一张作品。这个活动让我收获颇丰，也是在那段时间，自己的技法和耐心得到了很大的提升，如果还没有做过这项挑战的朋友们，强烈推荐大家参与这个活动。如果觉得100天太难，也可以尝试先从连续30天开始做。我觉得这个项目中最会让人放弃的的地方可能不在于做的过程，而在于具体要做什么内容上。所以针对这个问题，我觉得在开始前，最好是给自己列一个方向清单，并且让自己的生活尽可能的规律化，你就很大可能会完成这项挑战了！
+
+本文的作者列举了自己在挑战过程中大量的案例和设计思路，非常详细的介绍了她是如何完成这项挑战的，相信读完，你定会有不少收获。
+
+
+
+译文开始:
+
+![image1](/img/article-img/20180903/image1.gif)
+
+本文将介绍我是如何在100天内通过自学创造50个动画的。
+
+在西雅图的一个夏夜，我吃着冰淇淋，在Youtube上看到一个关于Principle的教程并下载了一个免费试用版来尝试。几个月后，完成了我的第五个100天挑战——100天动画设计
+
+我是从2015年开始第一次尝试100天挑战的，我之前的挑战项目包括《100天涂鸦》、《100天字体练习》、《100天水彩画》、《100天矢量插图》。
+
+![image2](/img/article-img/20180903/image2.png)
+
+我过去做的100天挑战项目
+
+对于我来说，100天项目是一个宣泄创意的地方，它能让我通过艺术来表达自我，创作的乐趣和学习新技巧的挑战总是会让我收获颇丰。
+
+在100天动画设计挑战中，我自学了动效设计，同时也在100天内创作了50个矢量动画。你可以在我的[Instagram](https://www.instagram.com/explore/tags/100daysofmotionbytx/)和 [Dribbble](https://dribbble.com/tiantianxu/tags/100daysofmotion)上找到他们。
+
+接下来，我将会把我的创作工具，创作过程以及项目反思分享给大家。
+
+### 一、工具
+
+#### Sketch + Principle
+
+在最开始的两周，我会在sketch中绘制插画然后导入到Principle中做动画。
+
+- [**Sketch**](https://www.sketchapp.com/)**:** 是一款轻量级的矢量编辑工具，操作简单，价格也不贵。我发现它非常适合画一些简单插画
+- [**Principle**](http://principleformac.com/)**:** 是一款轻量级的原型制作工具，能生成交互动画，它与Sketch能无缝协作。我发现它是初学者学习动画属性和时间轴概念的好工具。
+
+#### Illustrator + After Effects
+
+在最初的两周后，我换了能控制更多细节的Illustrator 和After Effects的工具。
+
+- [**Illustrator**](https://www.adobe.com/products/illustrator.html?sdid=KKQML&mv=search&s_kwcid=AL!3085!3!227016237331!e!!g!!illustrator&ef_id=WNC7nwAAAKHjtx@A:20180807020959:s)**:** 最强大的矢量编辑工具，用 Illustrator创作的矢量插画能与After Effects 无缝对接。
+- [**After Effects**](https://www.adobe.com/products/aftereffects.html)**:** 最强大的动效软件，学习成本也相对较高。通过这个项目，我也掌握了许多使用它的高阶控制和内置视觉效果。
+
+### 二、创作过程
+
+创作动画比较费时，所以我将创作过程分为4个步骤并用2天时间来完成。
+
+#### 第一步：寻找灵感（15分钟）
+
+我每天都会在Dribbble,Behance,Instagram上收集动画灵感，不断丰富的Pinterest画板（https://www.pinterest.com/tiantianxu/ui-motion/）正成为我的灵感源泉。
+
+我同样也会在Youtube上收集很多动效教程。（https://www.youtube.com/playlist?list=PL2qWmlVFdcGNrUdd-agegZo-7GFBmgKOu）这是我在100天动效挑战中收集到的一些教程清单。
+
+#### 第二步：画草图（5分钟）
+
+一旦我有了想法，我就会在我的笔记本上画出一些关键画面。
+
+![image3](/img/article-img/20180903/image3.png)
+
+想法草图
+
+#### 第三步：创作矢量插图（40分钟）
+
+我创作完矢量图后会把文件导入到Principle或After Effects中，良好的文件组织结构会大大加速动画的设计过程。
+
+这个教程（https://www.youtube.com/watch?v=yPha_s7W-0M&feature=youtu.be）会教你如何准备并导入一个Illustrator 文件到After Effects中。另外，可以通过Sketch2AE(https://google.github.io/sketch2ae/)把Sketch文件导入到AE中。
+
+#### 第四步：创作动画（60分钟）
+
+接着我会让矢量插图动起来，并导出一个动画短视频，然后把这个短视频带上#100daysofmotionbytx这个标签发到Instagram上。
+
+这个教程(https://youtu.be/jHpk1JS44yE) 将教你如何把一个视频导出成一个能发到Dribbble的GIF图片。
+
+### 第一天到第十四天：从基础动画开始
+
+我的第一个动画是跟着这个教程来做的： Principle—简单的角色动画(跳动的甜甜圈）(https://youtu.be/qYCPoqwmQK4)
+
+![image4](/img/article-img/20180903/image4.gif)
+
+100天动画—跳动的甜甜圈
+
+通过这个教程 Principle — 手势动画(https://youtu.be/iS3B5VT7Ejc)，我创作了这个交互原型动画
+
+![image5](/img/article-img/20180903/image5.gif)
+
+100天动画 —杰克和披萨
+
+很快，我有能力在不看教程的情况下独立完成动画的创作。
+
+![image6](/img/article-img/20180903/image6.gif)
+
+100天动画—白天和黑夜切换
+
+![image7](/img/article-img/20180903/image7.gif)
+
+100天动画—日食
+
+### 第15-70天：进阶学习
+
+在第15-70天期间，我尝试了以下一些方法来学习AE。
+
+#### 方法1:看教程并根据回忆来创作
+
+我用1.5倍的速度来看教程并根据回忆创作动画。
+
+在我觉得需要的时候，我会记下一些关键步骤，只有当我彻底卡住的时候，我才会倒回来再看看教程。我也会努力的去记一些AE的快捷键以帮助我更加高效的创作动画。
+
+我看了这个烟雾AE教程 (https://youtu.be/mYf1wElfPn4)创作了下面这个动画
+
+![image8](/img/article-img/20180903/image8.gif)
+
+100天动画—Epicurrence
+
+我看了这个熔岩灯AE教程(https://youtu.be/iC3mLtDVjlc)创作了下面的动画
+
+![image9](/img/article-img/20180903/image9.gif)
+
+100天动画—熔岩灯
+
+#### 方法2：借鉴别人的设计
+
+我在Dribbble上通过对别人作品一帧一帧的拆解来学习，然后根据自己的想法再创造。
+
+我再创作了Deekay的弹力水果(https://dribbble.com/shots/2542570-Bouncy-Fruits) 。我通常拆解他的作品，学习到了“挤压变形”的动画原理。
+
+![image10](/img/article-img/20180903/image10.gif)
+
+100天动画 — 弹力甜点
+
+我再创作了 Tony Babel的行走动画(https://dribbble.com/shots/3631324-Walk-Cycle-Tutorial) 。他的行走动画教程教会了我如何让一个动画循环行走(https://youtu.be/PgBo-00_GWc) 。 (这个人物的灵感是受到 Skinny Andy(https://www.flickr.com/photos/skinnyandy/)的插画启发。)
+
+![image11](/img/article-img/20180903/image11.gif)
+
+100天动画 — 茶杯先生
+
+#### 方法3：刻意的去用学到的技能来做创作
+
+重复是强化学习新技能的关键，我会比较刻意的去使用我学到的技能来创作新的动画。
+
+我创作了一个弹性南瓜就是利用学到的“挤压变形”动画原理。
+
+![image12](/img/article-img/20180903/image12.gif)
+
+100 天动画—南瓜
+
+我将从Tony那里学到的循环行走动画再次应用到一只火烈鸟的动画中去。
+
+![image13](/img/article-img/20180903/image13.gif)
+
+100天动画—火烈鸟
+
+#### 方法4：通过阅读书籍将这些点连成面
+
+在100天挑战的中期，我花了一天时间去读了《Adobe After Effects CC Classroom in a Book》（书的链接：http://suo.im/4SxObb）。通过书籍能更加系统的学习技能，我能将那些零散的点串联起来，同时，我还发现了一些我不知道的新技术。
+
+### 第71-100天: 创造自己心中的动画
+
+当我已经可以很熟练的掌握这些软件的时候，便开始创作一些更加随心的动画。
+
+![image14](/img/article-img/20180903/image14.gif)
+
+100天动画—瞭望塔 (灵感来自于游戏《 看火人》(http://www.firewatchgame.com/))
+
+![image15](/img/article-img/20180903/image15.gif)
+
+100天动画—乌鸦人 (灵感来自于《纪念碑谷》)
+
+![image16](/img/article-img/20180903/image16.gif)
+
+100天动画—魔法玫瑰 (灵感来自于电影《美女与野兽》)
+
+一些灵感来自于其他人的插画
+
+![image17](/img/article-img/20180903/image17.gif)
+
+100天动画—灯塔 (借鉴于 [Paulius’ Lighthouse](https://dribbble.com/shots/2668179-Lighthouse))
+
+![image18](/img/article-img/20180903/image18.gif)
+
+100天动画—水下世界 (借鉴于 [Dave Chenell’s Whale Migration](https://dribbble.com/shots/2128057-Whale-Migration))
+
+下面是我提交的一个设计挑战作品，它让我自己走出了舒适区并同时学到了新的技术。
+
+![image19](/img/article-img/20180903/image19.gif)
+
+100天动画—旋转木马
+
+我创作了一幅艺术作品来推广“西雅图周四字体设计趴”活动——这个活动是每月一次，主要以字体设计为主的设计聚会。
+
+![image20](/img/article-img/20180903/image20.gif)
+
+100天动画—霓虹灯
+
+我为我去过的和我想去的地方也设计了动画
+
+![image21](/img/article-img/20180903/image21.gif)
+
+100天动画—热气球
+
+![image22](/img/article-img/20180903/image22.gif)
+
+100天动画—极光
+
+![image23](/img/article-img/20180903/image23.gif)
+
+100天动画 — 孔明灯
+
+![image24](/img/article-img/20180903/image24.gif)
+
+100天动画 —森林 (借鉴于 [Mikael Gustafsson’s Birds](https://dribbble.com/shots/2940050-Birds))
+
+在100天的项目快结束时，我从我100天水彩的挑战中汲取了灵感创作了这个“银河女孩”动画
+
+![image25](/img/article-img/20180903/image25.gif)
+
+100 天动画—银河女孩
+
+### 思考
+
+#### 1. 想法驱动
+
+一旦我有了一个想法，我就想把它实现出来，无论它需要学习什么样的技术。
+
+比如，我想表达我对阅读的热爱。为了实现我构想的翻书动画，我就会去Youtube上找翻书动画的教程（https://www.youtube.com/watch?v=yTOEM8bKx_Y&feature=youtu.be）并同时学会了如何建立3D图层去做一个2D的项目。
+
+![image26](/img/article-img/20180903/image26.gif)
+
+100天动画—翻书
+
+同样的，我想做一杯南瓜香料拿铁。但是我不会，我就去Youtube上找了一个2D烟雾教程，学习了如何使用滑块控制和摆动表达式。
+
+![image27](/img/article-img/20180903/image27.gif)
+
+100天动画—南瓜香料拿铁
+
+> 这种以创意为导向的方法让我充满动力，并促使我发现并掌握到新的技术。
+
+#### 2. 保持谦卑
+
+在项目开始的时候，我对自己的动画设计能力很有信心。但当我开始探索AE的时候，我的自信心迅速崩塌——巨大的技能差距让我意识到我在动效设计方面的知识和技能是多么的局限。
+
+达克效应描述了一种认知偏差，即能力低下的人会具有虚幻的优越感，错误地认为自己的能力比实际更强。
+
+![image28](/img/article-img/20180903/image28.png)
+
+达克效应影响
+
+我越来越意识到自己的局限，就愈加谦卑。
+
+> 为了提高自己的技能，我需要时刻保持谦卑，不管我认为我已经知道了多少
+
+#### 3. 成为 1%
+
+在我开始100天项目之前，我把大量的时间浪费在社交媒体和电影电视上，有时我也会花一些时间在网络课程或者阅读一本书上。但是所有这些事情都只是在输入。
+
+在互联网文化中，有一个“1%定律”描述了互联网社区的参与率：只有1%的人在这个社区积极的创建新的内容，9%的人会去编辑内容，而其他90%的人都只是在消费这些内容。
+
+![image29](/img/article-img/20180903/image29.png)
+
+1% 定律 (互联网文化)
+
+从我开始100天的项目后，我也成为了一个内容生产者。我开始创造一些我喜欢的东西，学习一些新技术，并以积极的方式影响我周围的人。
+
+> 我想成为创造内容的那1%的人——这种想法激励我每天都在行动，尤其是在遇到困难想要松懈的时候
+
+### 结语
+
+回头看看，我非常感谢那些制作了教程并在Youtube上免费分享的人。同时，我也被那些不断创造出大量优秀作品的人深深的激励着。
+
+下面是在项目挑战中一直激励着我的10位内容创作者们：
+
+- Pablo Stanley(https://twitter.com/pablostanley)
+- Gal Shir(https://dribbble.com/galshir)
+- Tony Babel(https://dribbble.com/TonyBabel)
+- James Curran(https://dribbble.com/slimjimstudios)
+- Eran Mendel(https://dribbble.com/eranmendel)
+- Hanna Jung(https://dribbble.com/Jung_Hanna)
+- Yup Nguyen(https://dribbble.com/yupnguyen)
+- Mikael Gustafsson(https://dribbble.com/MikaelGustafsson)
+- Dave Chenell(https://dribbble.com/dchen)
+- Beeple (Mike Winkelmann)(https://www.instagram.com/beeple_crap/)
+
+
+
+> 原文：https://uxdesign.cc/100-days-of-motion-design-463526af852f
+>
+> 作者：[Tiantian Xu](https://uxdesign.cc/@tiantianxu?source=post_header_lockup)
+>
+> 译者：彩云Sky
+>
+> 本文翻译已获得作者的正式授权
+
+![shouquan](/img/article-img/20180903/shouquan.png)
